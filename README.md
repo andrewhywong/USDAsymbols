@@ -1,2 +1,2 @@
 # USDAsymbols
-Automatically find scientific names of a plant species with plant symbol in USDA plant database.
+Automatically find scientific names of plant species with plant symbols in USDA plant database.
